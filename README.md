@@ -1,3 +1,4 @@
+```{python}
 def solution(queries):
     class CourseRegistrationSystem:
         def __init__(self):
@@ -178,3 +179,5 @@ class TestCourseRegistrationSystem(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+```
